@@ -21,13 +21,12 @@
 .match-history .match-details {
   margin-top: 20px; }
 
-.match-history label {
-  display: block; }
-
 .match-history div {
-  font-style: italic;
-  margin-bottom: 6px; }
+  font-style: italic; }
   .match-history div span {
+    width: 22%;
+    display: inline-block; }
+  .match-history div label {
     display: block; }
 
 /* Search Results */
