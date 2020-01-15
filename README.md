@@ -1,4 +1,4 @@
-# EPL Team Search App (React, Webpack 4, The SportsDB API, Reactstrap, SASS and Autoprefixer)
+# English Premierleague Team Search App (React, Webpack 4, The SportsDB API, Reactstrap, SASS and Autoprefixer)
 This is a customised front end boilerplate using Webpack 4
 
 ## Webpack (Compiled CSS with autoprefixer)

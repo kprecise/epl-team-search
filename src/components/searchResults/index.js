@@ -78,7 +78,7 @@ class SearchResults extends Component {
             <Container>
                 <Row>
                     <Col xs="12">
-                        <h1>EPL Search Tool</h1> 
+                        <h1>EPL Team Search</h1> 
                     </Col>
                 </Row>
                 <Row>
